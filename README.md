@@ -1,9 +1,5 @@
 I'm Dogean!
 
-- 🌐 The only way to contact me is through discord *Dogean#4612*
-- 📜 I’m currently experienced in Java.
-- 🔨 I'm currently working on my own Projects *(Server Core, Staff Utilities and much more)*
-
 *I mostly do private work so don't expect to see much public commits from me*
 
 ### My GitHub Statistics
