@@ -2,6 +2,8 @@ I'm Dogean!
 
 *I mostly do private work so don't expect to see much public commits from me*
 
+- Currently learning Kotlin and C
+
 ### My GitHub Statistics
 <details>
    <summary>Click to show</summary>
