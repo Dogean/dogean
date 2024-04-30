@@ -2,7 +2,10 @@ I'm Dogean!
 
 *I mostly do private work so don't expect to see much public commits from me*
 
-- Currently learning Kotlin and C
+GOALS:
+- Currently learning C++ / C
+- Learnt Java (mostly)
+- Learn md
 
 ### My GitHub Statistics
 <details>
