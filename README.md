@@ -5,7 +5,6 @@ I'm Dogean!
 GOALS:
 - Currently learning C++ / C
 - Learnt Java (mostly)
-- Learn md
 
 ### My GitHub Statistics
 <details>
