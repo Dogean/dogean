@@ -3,8 +3,7 @@ I'm Dogean!
 *I mostly do private work so don't expect to see much public commits from me*
 
 GOALS:
-- Currently learning C++ / C
-- Learnt Java (mostly)
+- Learn C++ / C
 
 ### My GitHub Statistics
 <details>
