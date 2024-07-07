@@ -4,6 +4,8 @@ I'm Dogean!
 
 GOALS:
 - Learn C++ / C
+- Learn Rust
+- Type properly
 
 ### My GitHub Statistics
 <details>
